@@ -44,7 +44,7 @@ I'm a passionate developer who enjoys creating meaningful web applications and e
 
 - 🌐 [Portfolio Website](#) *(Coming soon)*  
 - 💼 [LinkedIn](#)  
-- ✉️ Email: saudatussahadia@example.com
+- ✉️ Email: sauda.cse8.bu@gmail.com
 
 Thanks for stopping by! 🌟  
 
