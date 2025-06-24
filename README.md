@@ -33,10 +33,6 @@ I'm a passionate developer who enjoys creating meaningful web applications and e
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sauda001&show_icons=true&theme=github_dark&hide_title=false&hide_border=true" alt="Sauda's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sauda001&theme=github-dark&hide_border=true" height="165" />
-</p>
 
 ---
 
