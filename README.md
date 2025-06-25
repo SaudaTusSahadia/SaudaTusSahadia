@@ -11,21 +11,21 @@
 <h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <ul>
-<li>
-<p>🔭 I’m currently working on  </p>
-</li>
-<li>
-<p>🌱 I’m currently learning Git, Java y GitHub</p>
-</li>
-<li>
-<p>👯 I’m looking to collaborate on Proyectos</p>
-</li>
-<li>
-<p>💬 Ask me about Sql, Java, C#, JavaScript</p>
-</li>
-<li>
-<p>⚡ Fun fact: Me gustan los girasoles.</p>
-</li>
+  <li>
+    🔭 I’m currently working on a full-stack web project using React and Node.js.
+  </li>
+  <li>
+    🌱 I’m currently learning Git, Java, and GitHub to improve my development workflow.
+  </li>
+  <li>
+    👯 I’m looking to collaborate on open-source projects and team-based coding challenges.
+  </li>
+  <li>
+    💬 Ask me about SQL, Java, C#, JavaScript – I'm always up for tech talk!
+  </li>
+  <li>
+    ⚡ Fun fact: Me encantan los girasoles 🌻 – they brighten my day!
+  </li>
 </ul>
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
 
